@@ -1,0 +1,28 @@
+name: EurekaMetrics
+favicon: null
+layout_spectrum: 0.9900478031486273
+typography_spectrum: 0.17718118615448475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6998029877431691
+  lightness: 0.46893080812878907
+  saturation: 0.730929056648165
+  rhythmicContrast: 0.3509308334905654
+purpose: []
