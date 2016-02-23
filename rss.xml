@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EurekaMetrics]]></title>
+        <description><![CDATA[EurekaMetrics]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 17:56:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using Javascript waitFor() instead of Promises]]></title>
+            <description><![CDATA[<article><h1>Using Javascript waitFor() instead of Promises</h1><p>Efficient wait/timeouts in Javascript</p></article>]]></description>
+            <link>undefinedusing-javascript-waitfor-instead-of-promises/index.html</link>
+            <guid isPermaLink="false">e342de55-0317-40fa-bbf9-41904cc516e2</guid>
+            <pubDate>Tue, 23 Feb 2016 17:56:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
